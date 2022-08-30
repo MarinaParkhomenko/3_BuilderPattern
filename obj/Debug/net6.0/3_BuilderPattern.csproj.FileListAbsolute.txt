@@ -1,0 +1,15 @@
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\bin\Debug\net6.0\3_BuilderPattern.exe
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\bin\Debug\net6.0\3_BuilderPattern.deps.json
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\bin\Debug\net6.0\3_BuilderPattern.runtimeconfig.json
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\bin\Debug\net6.0\3_BuilderPattern.dll
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\bin\Debug\net6.0\3_BuilderPattern.pdb
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.AssemblyInfo.cs
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.dll
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\refint\3_BuilderPattern.dll
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.pdb
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\3_BuilderPattern.genruntimeconfig.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\3_BuilderPattern\obj\Debug\net6.0\ref\3_BuilderPattern.dll
